@@ -1,3 +1,4 @@
 # Voicepass
-Phần mềm nhận diện giọng nói dựa trên giải thuật MFCC và DTW
+Phần mềm nhận diện giọng nói dựa trên giải thuật MFCC và DTW\n
+
 MFCC source code: https://www.mathworks.com/matlabcentral/fileexchange/32849-htk-mfcc-matlab
